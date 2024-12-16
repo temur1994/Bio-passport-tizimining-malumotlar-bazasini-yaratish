@@ -1,1 +1,1 @@
-# Bio-passport-tizimining-malumotlar-bazasini-yaratish
+# Loiha_ish
